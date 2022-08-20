@@ -1,0 +1,78 @@
+[
+  {
+    "id": "62fd326c8e817cc51bfa5b73",
+    "type": {
+      "item1": "Item Type",
+      "item2": "Camera",
+      "item3": "Television",
+      "item4": "Computer"
+    },
+    "category": {
+      "item1": "Sub-Category",
+      "item2": "Picture",
+      "item3": "Video"
+    },
+    "unit": {
+      "item1": "Unit Name",
+      "item2": "Hardware",
+      "item3": "Software"
+    }
+  },
+  {
+    "id": "62fd326c620cca4d0125d112",
+    "type": {
+      "item1": "Item Type",
+      "item2": "Car",
+      "item3": "Bike",
+      "item4": "Bus"
+    },
+    "category": {
+      "item1": "Sub-Category",
+      "item2": "Wheel",
+      "item3": "Horn"
+    },
+    "unit": {
+      "item1": "Unit Name",
+      "item2": "Ticket",
+      "item3": "Money"
+    }
+  },
+  {
+    "id": "62fd326c986511cc343c69cf",
+    "type": {
+      "item1": "Item Type",
+      "item2": "Samsung",
+      "item3": "iPhone",
+      "item4": "One Plus"
+    },
+    "category": {
+      "item1": "Sub-Category",
+      "item2": "Game",
+      "item3": "Talk"
+    },
+    "unit": {
+      "item1": "Unit Name",
+      "item2": "Brand",
+      "item3": "Company"
+    }
+  },
+  {
+    "id": "62fd326c1c95c5006c68a992",
+    "type": {
+      "item1": "Item Type",
+      "item2": "Rice",
+      "item3": "Milk",
+      "item4": "Meat"
+    },
+    "category": {
+      "item1": "Sub-Category",
+      "item2": "Eat",
+      "item3": "Drink"
+    },
+    "unit": {
+      "item1": "Unit Name",
+      "item2": "Health",
+      "item3": "Wealth"
+    }
+  }
+]
