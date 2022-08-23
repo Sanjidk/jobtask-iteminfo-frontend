@@ -18,11 +18,11 @@ const CreatedItem = () => {
                     <tbody>
                         <tr>
                             <th>1</th>
-                            <td>Cy</td>
-                            <td>Quality Control Specialist</td>
-                            <td>Blue</td>
-                            <td>Green</td>
-                            <td>Red</td>
+                            <td>BLACK</td>
+                            <td>WHITE</td>
+                            <td>BLUE</td>
+                            <td>GREEN</td>
+                            <td>RED</td>
                         </tr>
                     </tbody>
                 </table>
