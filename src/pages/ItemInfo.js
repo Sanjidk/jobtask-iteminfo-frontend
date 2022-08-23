@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import { Link } from "react-router-dom";
 // import SingleItem from '../pages/SingleItem';
 
 
@@ -124,9 +125,11 @@ const ItemInfo = () => {
                 )
             }
 
-            <div className="flex justify-around">
+            <div className="flex justify-around bg-gray-300 p-3">
                 <div>
-                    <button className="btn"> Cancel</button>
+                    <button className="btn">
+                        <Link to='/listItem'> Cancel</Link>
+                    </button>
                 </div>
                 <div>
                     <button type="submit" onClick={handleAddItem} className="btn btn-primary"> Save</button>
